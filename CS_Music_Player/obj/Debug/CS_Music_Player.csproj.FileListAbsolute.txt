@@ -1,0 +1,15 @@
+C:\Users\1gamz\source\repos\CS_Music_Player\CS_Music_Player\bin\Debug\CS_Music_Player.exe.config
+C:\Users\1gamz\source\repos\CS_Music_Player\CS_Music_Player\bin\Debug\CS_Music_Player.exe
+C:\Users\1gamz\source\repos\CS_Music_Player\CS_Music_Player\bin\Debug\CS_Music_Player.pdb
+C:\Users\1gamz\source\repos\CS_Music_Player\CS_Music_Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\1gamz\source\repos\CS_Music_Player\CS_Music_Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\1gamz\source\repos\CS_Music_Player\CS_Music_Player\obj\Debug\CS_Music_Player.csproj.AssemblyReference.cache
+C:\Users\1gamz\source\repos\CS_Music_Player\CS_Music_Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\1gamz\source\repos\CS_Music_Player\CS_Music_Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\1gamz\source\repos\CS_Music_Player\CS_Music_Player\obj\Debug\CS_Music_Player.csproj.ResolveComReference.cache
+C:\Users\1gamz\source\repos\CS_Music_Player\CS_Music_Player\obj\Debug\CS_Music_Player.form1.resources
+C:\Users\1gamz\source\repos\CS_Music_Player\CS_Music_Player\obj\Debug\CS_Music_Player.Properties.Resources.resources
+C:\Users\1gamz\source\repos\CS_Music_Player\CS_Music_Player\obj\Debug\CS_Music_Player.csproj.GenerateResource.cache
+C:\Users\1gamz\source\repos\CS_Music_Player\CS_Music_Player\obj\Debug\CS_Music_Player.csproj.CoreCompileInputs.cache
+C:\Users\1gamz\source\repos\CS_Music_Player\CS_Music_Player\obj\Debug\CS_Music_Player.exe
+C:\Users\1gamz\source\repos\CS_Music_Player\CS_Music_Player\obj\Debug\CS_Music_Player.pdb
